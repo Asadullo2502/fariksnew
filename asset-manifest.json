@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.badf1392.chunk.css",
+    "main.js": "/static/js/main.bd701e5a.chunk.js",
+    "main.js.map": "/static/js/main.bd701e5a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e91a92e1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e91a92e1.js.map",
+    "static/css/2.769cd7f6.chunk.css": "/static/css/2.769cd7f6.chunk.css",
+    "static/js/2.7447905a.chunk.js": "/static/js/2.7447905a.chunk.js",
+    "static/js/2.7447905a.chunk.js.map": "/static/js/2.7447905a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.769cd7f6.chunk.css.map": "/static/css/2.769cd7f6.chunk.css.map",
+    "static/css/main.badf1392.chunk.css.map": "/static/css/main.badf1392.chunk.css.map",
+    "static/js/2.7447905a.chunk.js.LICENSE.txt": "/static/js/2.7447905a.chunk.js.LICENSE.txt",
+    "static/media/katex.min.css": "/static/media/KaTeX_Typewriter-Regular.c5441b17.ttf",
+    "static/media/design.80fb4d97.png": "/static/media/design.80fb4d97.png",
+    "static/media/log1.965e580c.png": "/static/media/log1.965e580c.png",
+    "static/media/new1.057ddb2f.jpg": "/static/media/new1.057ddb2f.jpg",
+    "static/media/new2.99d03596.jpg": "/static/media/new2.99d03596.jpg",
+    "static/media/new3.d7029d32.jpg": "/static/media/new3.d7029d32.jpg",
+    "static/media/smm.de75c05a.png": "/static/media/smm.de75c05a.png",
+    "static/media/student.fbfcb6ae.svg": "/static/media/student.fbfcb6ae.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e91a92e1.js",
+    "static/css/2.769cd7f6.chunk.css",
+    "static/js/2.7447905a.chunk.js",
+    "static/css/main.badf1392.chunk.css",
+    "static/js/main.bd701e5a.chunk.js"
+  ]
+}
